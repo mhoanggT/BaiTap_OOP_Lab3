@@ -1,3 +1,9 @@
+/**
+ * @description lop nay cho biet thong tin ve CoSoVatChat
+ * @author Thai Minh Hoang
+ * @version 1.0
+ * @created 20/09/2025
+ */
 package iuh.fit.edu;
 
 abstract class CoSoVatChat {

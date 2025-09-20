@@ -1,3 +1,10 @@
+/**
+ * @description lop nay cho biet thong tin ve ban va ke thua tu CoSoVatChat
+ * @author Thai Minh Hoang
+ * @version 1.0
+ * @created 20/09/2025
+ */
+
 package iuh.fit.edu;
 
 public class Ban extends CoSoVatChat {
